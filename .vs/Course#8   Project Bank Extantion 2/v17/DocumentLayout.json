@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.vcxproj.filters||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38382BD-51C9-42EA-8F7E-FD1AE5BFA38C}|Course#8   Project Bank Extantion 2.vcxproj|C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B38382BD-51C9-42EA-8F7E-FD1AE5BFA38C}|Course#8   Project Bank Extantion 2.vcxproj|solutionrelative:Course#8   Project Bank Extantion 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38382BD-51C9-42EA-8F7E-FD1AE5BFA38C}|Course#8   Project Bank Extantion 2.vcxproj|C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B38382BD-51C9-42EA-8F7E-FD1AE5BFA38C}|Course#8   Project Bank Extantion 2.vcxproj|solutionrelative:Course#8   Project Bank Extantion 2.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Admin.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Houssam.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Houssam.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course#8    Project Bank Extantion 2.vcxproj.filters",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.vcxproj.filters",
+              "RelativeDocumentMoniker": "..\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.vcxproj.filters",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.vcxproj.filters",
+              "RelativeToolTip": "..\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.vcxproj.filters",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-16T14:24:52.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course#8    Project Bank Extantion 2.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.cpp",
+              "RelativeDocumentMoniker": "..\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.cpp",
+              "RelativeToolTip": "..\\Course#8    Project Bank Extantion 2\\Course#8    Project Bank Extantion 2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T14:24:36.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course#8   Project Bank Extantion 2.rc",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.rc",
+              "RelativeDocumentMoniker": "Course#8   Project Bank Extantion 2.rc",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.rc",
+              "RelativeToolTip": "Course#8   Project Bank Extantion 2.rc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-16T13:31:04.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.txt",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Admin.txt",
+              "RelativeDocumentMoniker": "Admin.txt",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Admin.txt",
+              "RelativeToolTip": "Admin.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T19:40:17.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Houssam.txt",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Houssam.txt",
+              "RelativeDocumentMoniker": "Houssam.txt",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Houssam.txt",
+              "RelativeToolTip": "Houssam.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-14T19:35:57.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course#8   Project Bank Extantion 2.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.cpp",
+              "RelativeDocumentMoniker": "Course#8   Project Bank Extantion 2.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\Course#8   Project Bank Extantion 2\\Course#8   Project Bank Extantion 2.cpp",
+              "RelativeToolTip": "Course#8   Project Bank Extantion 2.cpp",
+              "ViewState": "AQIAAH0EAAAAAAAAAAAAABAFAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T19:07:18.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
